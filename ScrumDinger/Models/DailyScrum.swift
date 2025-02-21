@@ -39,5 +39,9 @@ extension DailyScrum {
                    attendees: ["Chella", "Chris", "Christina", "Eden", "Karla", "Lindsey", "Aga", "Chad", "Jenn", "Sarah"],
                    lengthInMinutes: 5,
                    theme: .poppy)
+        DailyScrum(title: "yo Dev",
+                   attendees: ["Chella", "Chris", "Christina", "Eden", "Karla", "Lindsey", "Aga", "Chad", "Jenn", "Sarah"],
+                   lengthInMinutes: 5,
+                   theme: .poppy)
     ]
 }
